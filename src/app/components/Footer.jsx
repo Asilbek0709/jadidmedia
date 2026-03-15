@@ -21,7 +21,7 @@ export default function Footer(){
                     </div>
                     <div className="footerContact">
                         <p><strong>Manzil:</strong> Markaz-5 Qiyot-88</p>
-                        <p><strong>Murojat uhcun:</strong> +998 (90) 123 45 67</p>
+                        <p><strong>Murojaat uchun:</strong> +998 (90) 123 45 67</p>
                         <p><strong>Elektron pochta:</strong> mail@gmail.com</p>
                     </div>
                 </main>

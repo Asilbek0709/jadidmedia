@@ -66,9 +66,9 @@ const [open, setOpen] = useState(false);
                 </button>
 
                 <nav className={`mobileMenu ${open ? "show" : ""}`}>
-                    <Link className="headerLink" href="/" onClick={() => setOpen(false)}>Bosh sahifa</Link>
-                    <Link className="headerLink" href="/conference" onClick={() => setOpen(false)}>Anjuman</Link>
-                    <Link className="headerLink" href="/contact" onClick={() => setOpen(false)}>Aloqa</Link>
+                    <Link className="headerLink" href="/" onClick={() => setOpen(false)}>{t("header.main")}</Link>
+                    <Link className="headerLink" href="/conference" onClick={() => setOpen(false)}>{t("header.conf")}</Link>
+                    <Link className="headerLink" href="/contact" onClick={() => setOpen(false)}>{t("header.contact")}</Link>
                     <div className="language-dropdown mobile">
                         <button
                             className={`language-dropdown-button ${currentLang === "uz" ? "active" : ""}`}

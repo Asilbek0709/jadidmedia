@@ -15,7 +15,7 @@ export default function Contact(){
                                 variant="outlined"
                                 fullWidth
                                 sx={{
-                                width: { xs: "100%", sm: "48%" },
+                                width: { xs: "70%", sm: "34%" },
 
                                 "& .MuiOutlinedInput-root": {
                                     borderRadius: "8px",
@@ -35,7 +35,7 @@ export default function Contact(){
                                 variant="outlined"
                                 fullWidth
                                 sx={{
-                                width: { xs: "100%", sm: "48%" },
+                                width: { xs: "70%", sm: "34.5%" },
 
                                 "& .MuiOutlinedInput-root": {
                                     borderRadius: "8px",
@@ -51,11 +51,11 @@ export default function Contact(){
                             />
                         </div>
                         <TextField
-                            label="Elektron pochta manzili"
+                            label="Bog'lanish uchun telegram akkaunt"
                             variant="outlined"
                             fullWidth
                             sx={{
-                                width: "100%",
+                                width: "70%",
 
                                 "& .MuiOutlinedInput-root": {
                                 borderRadius: "8px",

@@ -288,7 +288,7 @@ const articles = [
                 page: "144-154", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033169",
-                abstract: ``,
+                abstract: `Политическая реклама играет неоспоримую роль и имеет особый статус в современной политической системе, и её изучение и анализ также имеют большое значение для журналистского сообщества нашей страны. Политологи, юристы, социологи и представители других областей науки начали изучать этот феномен гораздо раньше. Данный вопрос поучителен в нескольких отношениях, а история политической рекламы и её развития доказывает, что её элементы использовались ещё при жизни Платона. В таджикских пословицах «Худиро зан, бегона тарсад» («Бей своих, чтобы чужие боялись») и «Духтарам гуфтам, келинам шунав» («Говорю дочери, чтобы невестка услышала») отчётливо видны элементы, формирующие политическую и скрытую рекламу.`,
                 file: "/29.pdf", },
             { 
                 slug: "modern-journalism-trends-new-formats-and-social-media-development-within-the-political-line-of-president-ilham-aliyev",
@@ -297,7 +297,7 @@ const articles = [
                 page: "155-157", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033181",
-                abstract: ``,
+                abstract: `This article examines the key trends of modern journalism, the emergence of new media formats, and the growing influence of social media on public opinion within the framework of President Ilham Aliyev’s political strategy. The study analyzes the President’s public speeches and media engagements related to media policy, information security, digital transformation, transparency, and state–media relations using a theoretical and analytical approach. The main objective of the article is to identify the political and ideological foundations of transformations occurring in Azerbaijan’s media landscape and to academically assess the strategic communication model shaped by President Ilham Aliyev in response to contemporary media challenges, particularly in the context of social media expansion and information warfare.`,
                 file: "/30.pdf", 
                 keywords: "modern journalism, social media, new media formats, media policy, President Ilham Aliyev"},
             { 
@@ -307,7 +307,7 @@ const articles = [
                 page: "158-173", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033191",
-                abstract: ``,
+                abstract: `Статья впервые анализируется в таджикской журналистской науке. Авторы раскрыли тему на конкретных примерах из деятельности политических партий страны. Политическая реклама считается неотъемлемой и очень важной частью политического процесса и системы в той или иной стране. Этот вопрос поучителен во многих отношениях, и история политической рекламы и ее эволюции доказывает, что ее элементы использовались еще при Платона. Политическая реклама – вид политической коммуникации с точки зрения целенаправленного воздействия на определенные группы. Он является носителем мыслей, создает идеи, образы, символы и мифы. В то же время, этот процесс исследует преимущество кандидата над оппонентом. Политическая реклама действует в условиях политической конкуренции и выделяет свой объект среди других. Поэтому можно говорить о его социальной и идеологической функции. Целью политической рекламы является побуждение людей к участию в тех или иных политических процессах, в том числе и в выборах. Политические партии, отдельные кандидаты, их программы, а также движения являются объектом политической рекламы. Субъектом политической рекламы является рекламодатель (организация или политическое лицо). Они указывают на свою политическую волю. Политическая реклама выполняет 3 основные функции: коммуникативную, информационную и идеологическую. Авторы предлагает использовать внешние силы (аутсорсинг) для развития политической рекламы, а понятие «политическая реклама» должно быть уточнено в законодательстве страны. Организация семинаров на факультетах и кафедрах журналистики и издание учебников по политической рекламе имеют немаловажное значение в условиях многопартийности Таджикистана.`,
                 file: "/31.pdf", 
                 keywords: "политическая реклама, Таджикистан, методы, задача, аутсорсинг, политическая коммуникация, выборы, НДПТ, законодательство, политические партии, кандидат, электорат, рекламодатель."},
             { 
@@ -317,7 +317,7 @@ const articles = [
                 page: "174-179", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033210",
-                abstract: ``,
+                abstract: `В статье рассматривается роль средств массовой информации в формировании общественного иммунитета к радикализму как одного из ключевых факторов устойчивого развития современного общества. Анализируется значение медиа в процессах профилактики экстремистских идеологий, формирования ценностных ориентиров и укрепления социальной стабильности. На основе теоретического анализа и обобщения современных исследований раскрываются коммуникативные и социокультурные механизмы воздействия медиадискурса на общественное сознание. Особое внимание уделяется проблемам цифровой медиасреды, влиянию социальных сетей и необходимости развития медиаграмотности как инструмента профилактики радикализации. Обоснована необходимость формирования профессиональных и этических стандартов журналистской деятельности в освещении чувствительных общественнополитических тем.`,
                 file: "/32.pdf", 
                 keywords: "медиа, радикализм, профилактика экстремизма, общественный иммунитет, информационная безопасность, медиаграмотность, медиадискурс, толерантность."},
             { 
@@ -327,7 +327,7 @@ const articles = [
                 page: "180-183", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033226",
-                abstract: ``,
+                abstract: `Maqalada rásmiy hám kóp funkciyalı tekstlerde punktuacion hám sintaksislik normalardıń buzılıwı máseleleri redaktorlıq perspektivadan analiz etiledi. Teksttiń bir tutaslığın támiyinlewdiń áhmiyeti tiykarlanadı, ámeliy mısallar keltiriledi.`,
                 file: "/33.pdf", 
                 keywords: "Baspa isi, redaktor, redaktorlıq, tekst, teksttiń bir pútinligi, avtorlıq tekst, original nusqa."},
             { 
@@ -337,7 +337,7 @@ const articles = [
                 page: "184-188", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033237",
-                abstract: ``,
+                abstract: `Although journalism was initially rooted in newspaper publishing, today newspapers are gradually disappearing. This trend is observed worldwide. The decline in readership and the reduction in the number of newspapers have several causes. It cannot be explained by a single factor. Nevertheless, it should be noted that the rapid development of information and communication technologies is one of the factors leading to significant transformations in journalism. One of the main manifestations of these transformations is the gradual fading of newspaper publishing. However, the press can still maintain its existence. This shows that there is still a need for the press. No matter how advanced technology becomes, it cannot fulfill many of the functions of classical journalism.`,
                 file: "/34.pdf", 
                 keywords: "journalism, press, media, information and communication technologies, newspaper"},
             { 
@@ -347,7 +347,7 @@ const articles = [
                 page: "189-192", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033247",
-                abstract: ``,
+                abstract: `Ushbu maqolada jurnalist, publitsist S.Umirovning XIX asr oxiri – XX asr boshlarida yashab, faoliyat yuritgan jadidlarning ilmiy merosini jiddiy o‘rgangan va ajoyib asarlarni yozib qoldirgan atoqli adabiyotshunos olimlar B.Qosimov va B. Doʻstqorayevlar haqidagi maqolalarda keltirilgan fikrmulohazalari o‘rin olgan. Sрuningdek, jadidlarning ilmiy merosini o‘rganish nima uchun bugungi kunda ayniqsa dolzarb ekanligi haqida ayrim xulosalar berilgan`,
                 file: "/35.pdf", 
                 keywords: "jadidchilik, ma’rifatparvarlik, jadidshunoslik, matbuot, qatag‘on, ma’naviyat, publitsist."},
             { 
@@ -357,7 +357,7 @@ const articles = [
                 page: "193-196", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033257",
-                abstract: ``,
+                abstract: `FIJET (Federation Internationale des Journalistes et Ecrivains du Tourisme) – Xalqaro turizm masalalari bo‘yicha yozuvchi jurnalistlar federatsiyasi o‘tgan asrning 50-yillarida, aniqrog‘i 1954 yil dekabr oyida turizmning jadal rivojlanishi tufayli bir qator mamlakatlarda turizm mavzusiga ixtisoslashgan jurnalistlar va yozuvchilarni birlashtirgan milliy uyushma paydo bo‘ldi. Bu tashkilot fransuz, belgiyalik, italyan jurnalistlarining tashabbusi bilan Parijda tashkil etildi.`,
                 file: "/36.pdf",},
             { 
                 slug: "transformaciya-zhurnalistiki-v-konvergentnoe-media",
@@ -366,7 +366,7 @@ const articles = [
                 page: "197-206", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033267",
-                abstract: ``,
+                abstract: `Современная медиасфера характеризуется периодом радикальной трансформации, обусловленной развитием цифровых технологий и эволюцией паттернов медиапотребления. Интеграция традиционных печатных СМИ с цифровыми платформами, приводящая к формированию гибридных форматов, представляет собой значимый феномен, определяющий траекторию развития медиаиндустрии в XXI веке. Данная проблематика является предметом активного научного дискурса.`,
                 file: "/37.pdf", 
                 keywords: "медиасфера, контент, медиаиндустрия, цифровизация, медиаконвергенция, медиаландшафт."},
             { 
@@ -376,7 +376,7 @@ const articles = [
                 page: "207-210", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033278",
-                abstract: ``,
+                abstract: `Mazkur ilmiy maqolada zamonaviy raqamli axborot makonida keng tarqalgan clickbait texnologiyasi va manipulyativ kommunikatsiya jarayonlari kompleks tahlil qilinadi. Tadqiqotda raqamli media ekotizimi sharoitida auditoriya e’tiborini boshqarish mexanizmlari, algoritmik ta’sir, kognitiv manipulyatsiya va psixologik triggerlardan foydalanish usullari yoritiladi. Shuningdek, clickbait kontentning jamiyat axborot xavfsizligi, ommaviy ong va media ishonchliligiga ko‘rsatadigan salbiy ta’siri ilmiy asosda baholanadi. Maqolada media savodxonlikni oshirish, jurnalistika etikasi va platforma regulyatsiyasi orqali muammoni kamaytirish bo‘yicha tavsiyalar ishlab chiqilgan.`,
                 file: "/38.pdf", 
                 keywords: "raqamli media, clickbait, manipulyatsiya, ommaviy kommunikatsiya, algoritmik ta’sir, axborot xavfsizligi, media savodxonlik."},
             { 
@@ -386,7 +386,7 @@ const articles = [
                 page: "211-213", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033302",
-                abstract: ``,
+                abstract: `Mazkur maqolada sun’iy intellekt texnologiyalari asosida ijtimoiy tarmoqlarda salbiy sentimentni aniqlash mexanizmlari PR va inqiroz kommunikatsiyasi kontekstida tahlil qilinadi. NLP, machine learning va real-time monitoring usullarining imkoniyatlari ko‘rib chiqiladi. Mazkur ish o‘zbek media segmenti (Telegram, Facebook, Instagram) misolida auditoriya reaksiyalarini o‘rganishga asoslanadi. Natijalar shuni ko‘rsatadiki, SI tizimlari salbiy kayfiyatni erta aniqlash, reputatsion xavflarni prognozlash va inqirozlarga tezkor javob ishlab chiqishda samarali vosita hisoblanadi. Shu bilan birga, o‘zbek tilidagi semantik murakkablik va madaniy kontekst tizim aniqligiga ta’sir etishi qayd etiladi.`,
                 file: "/39.pdf", 
                 keywords: "Sun’iy intellekt, sentiment tahlili, inqiroz kommunikatsiyasi, ijtimoiy tarmoqlar, PR monitoring"},
             { 
@@ -396,7 +396,7 @@ const articles = [
                 page: "214-218", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033334",
-                abstract: ``,
+                abstract: `Mazkur maqolada mamlakatimizda kechayotgan muhim siyosiy- ijtimoiy, huquqiy-ma’rifiy jarayonlar va dunyoda ro‘y berayotgan voqealar muhokama qilinadi. Xususan, destruktiv tashkilotlar faoliyati, millatlararo totuvlik masalalari mavjud.`,
                 file: "/40.pdf", 
                 keywords: "Tinchlik, barqarorlik, tolerantlik, media, internet, OAV, ijtimoiy tarmoq, jurnalistika, terrorchilik, destruktiv tashkilotlar, buzg‘unchi g‘oyalar."},
             { 
@@ -406,7 +406,7 @@ const articles = [
                 page: "219-222", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033348",
-                abstract: ``,
+                abstract: `Ushbu maqolada koreys va o‘zbek tillaridagi bog‘lovchilarning — ya’ni grammatik jihatdan so‘z, ibora yoki gaplarni bog‘lovchi birliklarning — morfologik (shakl, qo‘shimcha, qo‘llanilish) va sintaktik (gap ichidagi o‘rni, bog‘lanish usullari) xususiyatlari qiyosiy tahlil qilinadi. Dastlab, ikki tilning umumiy grammatik konteksti doirasida bog‘lovchilarning til tizimidagi o‘rni ko‘rib chiqiladi. So‘ng koreys tilidagi asosiy bog‘lovchilar — 그리고, 그래서, ~지만, ~거나 va boshqalar — morfologik tuzilishi va qo‘llanilishiga ko‘ra tahlil qilinadi. Shuningdek, tarjima jarayoni va til o‘rgatish kontekstida yuzaga keladigan grammatik muammolar ham yoritiladi.`,
                 file: "/41.pdf", 
                 keywords: "bog‘lovchi, morfologiya, sintaksis, qiyosiy tahlil, grammatik birlik, koordinat bog‘lovchi, subordinat bog‘lovchi, tilshunoslik."},
             { 
@@ -416,7 +416,7 @@ const articles = [
                 page: "223-229", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033367",
-                abstract: ``,
+                abstract: `Ushbu maqolada zamonaviy onlayn OAVda ekologik kontent ishlab chiqish tendensiyalari suv muammolari mavzusi misolida tahlil qilinadi. Tadqiqotda media materiallarning janr, format va vizual elementlari o‘rganildi. Natijalar ekologik mavzularni yoritishda yangi media formatlardan yetarlicha foydalanilmayotganini ko‘rsatadi.`,
                 file: "/42.pdf", 
                 keywords: "ekologik kontent, suv muammolari, zamonaviy jurnalistika, media formatlar, raqamli OAV"},
             { 
@@ -426,7 +426,7 @@ const articles = [
                 page: "230-235", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033384",
-                abstract: ``,
+                abstract: `В статье рассматриваются особенности осознания наказания и внутреннего мира персонажей в романе Кон Джийона «Наши счастливые времена». Автор произведения показывает, как переживание судьбоносных жизненных ударов и опыт глубокой личной травмы приводят героев к внутренним трансформациям. Через диалоги, воспоминания и эмоциональные монологи раскрывается процесс духовного перерождения, раскаяния и принятия ответственности. Особое внимание уделяется тому, как взаимное понимание между Юджон и Юнсу становится основой для их внутреннего исцеления. Роман демонстрирует, что истинное наказание и прощение находятся не во внешнем мире, а в глубинах человеческого сознания.`,
                 file: "/43.pdf", 
                 keywords: "внутренняя трансформация; осознание наказания; раскаяние; вина; прощение; внутренние переживания; эмоциональная травма; духовное исцеление; тюремная литература; гуманизм; межличностное понимание; экзистенциальный кризис."},
             { 
@@ -436,7 +436,7 @@ const articles = [
                 page: "236-239", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19033396",
-                abstract: ``,
+                abstract: `Ushbu maqolada gibrid til hodisasi tillar aloqasi va madaniy o‘zaro ta’sir mahsuli sifatida tahlil qilinadi. Gibrid til ikki yoki undan ortiq tillarning uzoq muddatli aloqasi natijasida shakllanadigan nisbatan barqaror nutq tizimi sifatida izohlanadi. Tadqiqotda migratsiya, madaniyatlararo muloqot, ta’lim muhiti va raqamli kommunikatsiya gibrid nutq shakllarining yuzaga kelishiga ta’sir etuvchi asosiy omillar sifatida ko‘rsatiladi. Kod almashtirish, intertil hamda pidjin-kreol jarayonlari gibrid tilning muhim ko‘rinishlari sifatida yoritiladi. Maqolada gibrid tilning strukturaviy aralashuv, nisbiy barqarorlik va funksional kenglik kabi belgilari ochib berilib, u zamonaviy til taraqqiyotining tabiiy bosqichi sifatida baholanadi.`,
                 file: "/44.pdf", 
                 keywords: "gibrid til, tillar aloqasi, ikki tillilik, kod almashtirish, intertil (interlanguage), madaniy o‘zaro ta’sir, sotsiolingvistika, lingvistik gibridlik."},
             { 
@@ -446,7 +446,7 @@ const articles = [
                 page: "240-242", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035202",
-                abstract: ``,
+                abstract: `Ushbu maqolada televizion dasturlarning omma ongiga ta'sir ko‘rsatish mexanizmlari xususida gap boradi. Zamonaviy telemahsulotlarning ikki muhim formati realiti-shou va teleseriallarning janr xususiyatlari, o‘xshash hamda farqli jihatlari ilmiy nuqtai-nazardan o‘rganilgan. Ularning keng auditoriyani jalb etib, jamiyatning ijtimoiy, madaniy va psixologik jarayonlariga ta’siri tahlil qilindi.`,
                 file: "/45.pdf", 
                 keywords: "realiti-shou, media makon, kommunikasiya, ommaviy madaniyat, uyushtirilgan haqiqat, teleserial, dramaturgiya."},
             { 
@@ -456,7 +456,7 @@ const articles = [
                 page: "243-248", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035216",
-                abstract: ``,
+                abstract: `Истоки фотопублицистики в каракалпакской журналистике начинается с развитием в газетах направления фотожурналистики. Она имеет большое значение для выразительной передачи читателям газетные материалы. Фотографий не только украшают страницы печатной СМИ, но и служат достоверным фактом, о происходящих событиях.`,
                 file: "/46.pdf", },
             { 
                 slug: "vliyanie-socialьnyh-media-na-sovremennuyu-zhurnalistiku-v-usloviyah-cifrovizacii-mediaprostranstva",
@@ -465,7 +465,7 @@ const articles = [
                 page: "249-253", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035225",
-                abstract: ``,
+                abstract: `В статье анализируется влияние социальных медиа на трансформацию современной журналистики в условиях цифровизации медиапространства. Рассматриваются изменения в профессиональных стандартах журналистской деятельности, усиление роли аудитории в медиапроцессе, а также ключевые этические проблемы, связанные с распространением дезинформации, фейковых новостей и алгоритмической персонализацией контента. Особое внимание уделяется влиянию цифровых платформ на формирование медиаповестки и подрыв традиционных ценностей журналистики, таких как достоверность, объективность и социальная ответственность. Делается вывод о необходимости укрепления роли профессиональной журналистики как института общественного контроля в условиях цифровой медиасреды.`,
                 file: "/47.pdf", 
                 keywords: "социальные медиа, журналистика, цифровые медиа, медиапотребление, медиаэтика, дезинформация, алгоритмы."},
             { 
@@ -475,7 +475,7 @@ const articles = [
                 page: "254-262", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035237",
-                abstract: ``,
+                abstract: `Mazkur maqolada internet matnlarida yuzaga kelayotgan yangi innovatsion iboralarning (internet frazeologizmlarining) stilistik xususiyatlari tahlil qilinadi. Internet muhitiga xos stilistik erkinlik, ixchamlik, emotsionallik, hazil va kinoya fonida turg‘un birliklarning (frazeologizm, maqol, tasviriy ifodalar) yangi kontekstda qayta talqin qilinishi yoritiladi. Tadqiqotda frazeologik birliklarning internetda semantik kengayishi, metaforizatsiya va metonimik ko‘chish, kod aralashuvi (inglizcha–o‘zbekcha gibrid birikmalar), pragmatik baholash hamda multimodal vositalar (emoji, gif, mem) bilan uyg‘unlashuvi natijasida hosil bo‘ladigan ekspressivlik va obrazlilik ko‘rsatib beriladi. “Tarmoqni portlatdi”, “like bosmoq”, “kommentlarda o‘t oldi”, “postda portlamoq”, “trollarga yem bo‘lmoq”, “trendga chiqmoq” kabi birliklar misolida internet tilining dinamik tabiati, ijtimoiy rezonans yaratish mexanizmlari va uslubiy bo‘yoqdorlik kuchayishi izohlanadi.`,
                 file: "/48.pdf", 
                 keywords: "internet matni, internet frazeologizmlari, stilistik xususiyat, semantik kengayish, pragmatik baho, kod aralashuvi"},
             { 
@@ -485,7 +485,7 @@ const articles = [
                 page: "263-268", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035252",
-                abstract: ``,
+                abstract: `Mazkur maqolada global mediada yechimlar jurnalistikasining vujudga kelishi, shakllanish jarayoni va taraqqiyot bosqichlari tarixiy hamda nazariy yondashuvlar asosida tahlil qilinadi. Tadqiqotda yechimlar jurnalistikasi an’anaviy jurnalistika modeliga muqobil yondashuv sifatida ko‘rib chiqilib, uning paydo bo‘lishiga ta’sir ko‘rsatgan ijtimoiy, kommunikativ va institutsional omillar yoritiladi. Maqolada konstruktiv va fuqarolik jurnalistikasi bilan bog‘liqlik masalalari ochib berilib, yechimga yo‘naltirilgan reportajlarning asosiy nazariy tamoyillari – dalilga asoslanganlik, kontekstual tahlil, samaradorlik va cheklovlarni ko‘rsatish kabi jihatlar tahlil qilinadi. Shuningdek, global media makonida yechimlar jurnalistikasining rivojlanish dinamikasi, raqamli platformalar ta’siri va mintaqaviy moslashuv xususiyatlari ilmiy manbalar asosida baholanadi. Tadqiqot natijalari yechimlar jurnalistikasining zamonaviy jurnalistika paradigmasida ijtimoiy mas’uliyat, auditoriya ishonchi va konstruktiv jamoatchilik muloqotini kuchaytiruvchi muhim kommunikativ model ekanini ko‘rsatadi.`,
                 file: "/49.pdf", 
                 keywords: "yechimlar jurnalistikasi, global media, konstruktiv jurnalistika, dalillarga asoslangan reportaj, jurnalistika nazariyasi, auditoriya ishonchi."},
             { 
@@ -495,7 +495,7 @@ const articles = [
                 page: "269-277", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035258",
-                abstract: ``,
+                abstract: `В статье рассматривается медиахайп как устойчивый режим функционирования цифровых медиа, возникающий на пересечении алгоритмического распределения внимания, платформенной конкуренции и ускоренных циклов публичной повестки. Данная работа представляет собой попытку проанализировать текущие тенденции в сфере медиа и показать, каким образом алгоритмы рекомендаций и метрики вовлеченности усиливают самореферентные «волны» медийного внимания и смещают акценты журналистики от первичного отбора событий к интерпретации новостей, верификации информации и управлению доверием аудитории. Работа носит теоретикоаналитический характер и опирается на современные исследования медиахайпа, экономики внимания и трансформации журналистских стандартов. В заключении выделяются ключевые риски для качества публичной сферы и обозначаются направления профессиональной адаптации журналистики в платформенной среде.`,
                 file: "/50.pdf", 
                 keywords: "Медиахайп, цифровые платформы, алгоритмы внимания, экономика внимания, платформенная журналистика, искусственный интеллект"},
             { 
@@ -505,7 +505,7 @@ const articles = [
                 page: "278-280", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035269",
-                abstract: ``,
+                abstract: `Ma’lumki, jadidchilik harakati va matbuoti jamiyatdagi barcha jabhalarni qamrab olgan, turli masalalar haqida qayg’urgan va bong urgan. Jumladan, xotin-qizlar va ular bilan bog’liq masalalar ham jadid matbuotida muntazam va atroflicha yoritilgan. Bu mavzuda bir qancha maqolalar e’lon qilingan. Ushbu tezisda jadid matbuotidagi ayollar manfaatlarini himoya qilish va ijtimoiy faolligini oshirishga bag’ishlangan maqola va fikrlar o‘rganiladi hamda bugungi islohotlar bilan qiyosiy tahlil qilinadi. Tadqiqot natijalari yurtimizda xotinqizlarning faolligini yanada oshirish azaliy va ahamiyatli masala sifatida ko’rib chiqiladi hamda bu boradagi ishlarni tahlil qilish imkonini beradi.`,
                 file: "/51.pdf", 
                 keywords: "Jadidchilik, jadid matbuoti, xotin-qizlar, ijtimoiy faollik, ma’rifat, ayollar ta’limi, Abdurauf Fitrat, Mahmudxo‘ja Behbudiy"},
             { 
@@ -515,7 +515,7 @@ const articles = [
                 page: "281-284", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035289",
-                abstract: ``,
+                abstract: `This thesis examines the evaluation of news content quality and its perception by the audience in Uzbekistan. Based on a survey of 126 respondents, the following was revealed: the priority for news consumers is the reliability of facts, as well as conciseness—the inclusion of exclusively important details and the absence of non-essential information. Respondents noted the following shortcomings in the media: unreliable information and problems with content presentation (long, confusing, or boring texts, clickbait headlines). The results show that audience dissatisfaction is based on the noncompliance with fundamental journalistic standards, such as reliability and clarity, while technological aspects (publication speed, visualisation) are of secondary importance to the respondents.`,
                 file: "/52.pdf", 
                 keywords: "news content quality, information reliability, news presentation, society and mass media."},
             { 
@@ -525,7 +525,7 @@ const articles = [
                 page: "285-287", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035307",
-                abstract: ``,
+                abstract: `Ushbu maqolada zamonaviy jurnalistikani zamonaviy rivojlanish tendensiyalari tahlil qilinadi. Jurnalistikaning asosiy funksiyalari,janrlar transformatsiyasi,internet va ijtimoiy tarmoqlar ro‘li, kasbiy etika masalalari ko‘rib chiqilgan. Maqolada raqamlashtirish, multimediya materiallari integratsiyasi va fuqarolik jurnalistikasi kabi zamonaviy yo‘nalishlar ham yoritilgan. Ishning xulosasi shundan iboratki, jurnalistikaning taraqqiyoti texnologik rivoj, ijtimoiy ehtiyoj va kasbiy mas’uliyat bilan uzviy bog‘liq bo‘lib, bu sohaga oid ilmiy tadqiqotlar va ta’lim jarayonlarini takomillashtirishni talab qiladi.`,
                 file: "/53.pdf", 
                 keywords: "jurnalistika, taraqqiyot, multimediya, internet jurnalistika, kasbiy etika, raqamlashtirish."},
             { 
@@ -535,7 +535,7 @@ const articles = [
                 page: "288-291", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035315",
-                abstract: ``,
+                abstract: `Ushbu tezisda ijtimoiy tarmoqlarda bolalarga oid kontentlarni yaratish va tarqatishda etik me’yorlarga rioya qilish masalalari tahlil qilinadi. Tadqiqotda bolalarning shaxsiy hayoti daxlsizligi, psixologik xavfsizligi, axborotdan himoyalanish huquqi hamda ularning tasviri va ma’lumotlaridan noqonuniy yoki maqsadsiz foydalanish bilan bog‘liq muammolar ko‘rib chiqiladi. Shuningdek, ota-onalar, kontent yaratuvchilar va platformalar zimmasidagi axloqiy va ijtimoiy mas’uliyat yoritilib, mavjud xalqaro tajriba va tavsiyalar asosida takliflar ishlab chiqiladi.`,
                 file: "/54.pdf", 
                 keywords: "Ijtimoiy tarmoqlar, bolalar kontenti, etik me’yorlar, axborot xavfsizligi, raqamli mas’uliyat."},
             { 
@@ -545,9 +545,19 @@ const articles = [
                 page: "292-293", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035325",
-                abstract: ``,
+                abstract: `Ushbu maqolada zamonaviy media muhitda bolalar uchun mo‘ljallangan internet loyihalar, xususan YouTube kanallarning o‘rni va ularning auditoriya bilan ishlash strategiyalari tahlil qilingan. Tadqiqotda bolalar auditoriyasining psixologik xususiyatlari va kontent yaratishdagi yangi formatlar o‘rtasidagi bog‘liqlik ilmiy nuqtai nazardan yoritib berilgan.`,
                 file: "/55.pdf", 
                 keywords: "YouTube, bolalar media loyihalari, auditoriya strategiyasi, yangi formatlar, raqamli jurnalistika, ijtimoiy media, interaktivlik."},
+            {
+                slug: "ayollar-huquqlarining-dolzarbligi-hamda-jadidlarning-gender-tengligiga-oid-qarashlari",
+                title: "AYOLLAR HUQUQLARINING DOLZARBLIGI HAMDA JADIDLARNING GENDER TENGLIGIGA OID QARASHLARI", 
+                author: "Azizjon RASULOV & Mansurova Nigora", 
+                page: "294-297", 
+                date: "19.01.2026", 
+                doi: "https://doi.org/10.5281/zenodo.19035333",
+                abstract: "Ushbu maqolada zamonaviy jamiyatda ayollar huquqlarining dolzarbligi va ularni ta’minlash masalalari ko‘rib chiqilgan bo‘lib, gender tenglik konsepsiyasi tarixiy taraqqiyotda, xususan, O‘rta Osiyodagi islohotchi jadidlar faoliyatida qanday namoyon bo‘lgani tahlil qilingan. Jadidchilik harakati vakillari – Munavvarqori Abdurashidxonov, Mahmudxo‘ja Behbudiy, Abdulla Avloniy, Abdurauf Fitrat va boshqa ziyolilarning asarlarida ayollarning ta’lim olish huquqi, ijtimoiy hayotdagi o‘rni va tenglik g‘oyalari yoritilgan. Maqola orqali gender tengligi bugungi kunda ham dolzarb masala bo‘lib qolayotgani, bu borada tarixiy tajribaning o‘rni naqadar muhim ekani asoslab berilgan.",
+                keywords: "Mahmudxo‘ja Behbudiy, jadidchilik, xalqaro dunyoqarash, G‘arb sivilizatsiyasi, modernizatsiya, matbuot, ta’lim islohoti.",
+                file: "/56.pdf"},
             { 
                 slug: "behbudiyning-marifatparvarlik-faoliyati",
                 title: "BEHBUDIYNING MA`RIFATPARVARLIK FAOLIYATI", 
@@ -555,7 +565,7 @@ const articles = [
                 page: "298-301", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035345",
-                abstract: ``,
+                abstract: `Ushbu maqolada Behbudiyning ma’rifatparvarlik faoliyati, Turkistondagi jadid maktablari, ta’lim tizimi va uni isloh qilish g‘oyalari, milliy ta’lim tizimi haqidagi qarashlar, jadidlar tomonidan bu sohada amalga oshirilgan ishlar va aniq muammolar bayon etilgan.`,
                 file: "/57.pdf", 
                 keywords: "Ayollar huquqlari, gender tengligi, jadidchilik harakati, ayollar ta’limi, Mahmudxo‘ja Behbudiy, Abdulla Avloniy, ijtimoiy tenglik, Abdurauf Fitrat."},
             { 
@@ -565,7 +575,7 @@ const articles = [
                 page: "302-308", 
                 date: "19.01.2026", 
                 doi: "https://doi.org/10.5281/zenodo.19035360",
-                abstract: ``,
+                abstract: `Ushbu maqolada Mahmudxo‘ja Behbudiy va Abdurauf Fitrat misolida jadidlarning nafaqat milliy matbuotimiz balkim bugungi tahririyatlarning tuzilishi, muharrirlarning xodimlar bilan ishlashi, tahrir masalalari tahlil qilinadi. Shuningdek, jadid muharrirlarining hattoki hozirgi davr uchun ham muhim sanalgan boshqaruv ayniqsa ijodiy jarayonda qo‘llagan usullari, ahamiyat qaratgan jihatlari va ishlash prinsiplari chuqur o‘rganiladi. Behbudiy hamda Fitratning bosh muharrir, noshir hamda pedagog sifatida yosh kadrlarga maqola va yozma nutqni rivojlantirishga doir tavsiyalari, ishlab chiqqan qo‘llanmalari bugungi kadrlar siyosatida ham o‘z dolzarbligini yo‘qotmagan. Ushbu omillarni umumlashtirgan holda maqolada ularning ijodiy boshqaruvda qo‘llagan tendensiyalarini bugungi kunga ham tatbiq etishga doir ayrim mulohazalarni ilgari surish maqsad qilingan.`,
                 file: "/58.pdf", 
                 keywords: "Ayollar huquqlari, gender tengligi, jadidchilik harakati, ayollar ta’limi, Mahmudxo‘ja Behbudiy, Abdulla Avloniy, ijtimoiy tenglik, Abdurauf Fitrat."},
 ];

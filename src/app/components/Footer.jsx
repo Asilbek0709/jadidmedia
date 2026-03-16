@@ -23,7 +23,7 @@ export default function Footer(){
                     <div className="footerContact">
                         <p><strong>{t("footer.location")}</strong> Markaz-5 Qiyot-88</p>
                         <p><strong>{t("footer.phone")}</strong> <a href="tel:998977063607">+998 97 706 36 07</a>, <a href="tel:998971980529">+998 97 706 36 07</a></p>
-                        <p><strong>{t("footer.email")}</strong> <a href="ms.maxsumova@gmail.com">ms.maxsumova@gmail.com</a>, <a href="suleymonova1224@gmail.com">suleymonova1224@gmail.com</a></p>
+                        <p><strong>{t("footer.email")}</strong> <a href="ms.maxsumova@mail.ru">ms.maxsumova@mail.ru</a>, <a href="suleymonova1224@gmail.com">suleymonova1224@gmail.com</a></p>
                     </div>
                 </main>
                 <nav className="devInfo">

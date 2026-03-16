@@ -145,7 +145,7 @@ export default function Contact(){
                                 strokeLinejoin="round"
                                 />
                             </svg>
-                            <p><strong>{t("footer.email")}</strong> <a href="ms.maxsumova@gmail.com">ms.maxsumova@gmail.com</a>, <a href="suleymonova1224@gmail.com">suleymonova1224@gmail.com</a></p>
+                            <p><strong>{t("footer.email")}</strong> <a href="ms.maxsumova@mail.ru">ms.maxsumova@mail.ru</a>, <a href="suleymonova1224@gmail.com">suleymonova1224@gmail.com</a></p>
                         </div>
                         <div className="adress">
                             <svg 

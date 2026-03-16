@@ -95,13 +95,13 @@ body {
    ===================================================== */
 
 h1 {
-  font-size: var(--font-size-hero);
+  font-size: var(--font-size-xl);
   line-height: var(--line-height-tight);
   font-weight: 700;
 }
 
 h2 {
-  font-size: var(--font-size-2xl);
+  font-size: var(--font-size-xl);
   line-height: var(--line-height-tight);
   font-weight: 700;
 }
@@ -793,6 +793,7 @@ footer main img {
   .devInfo {
     padding: var(--spacing-lg) var(--padding-inline-tablet);
   }
+  
 }
 
 /* Laptop (1024px - 1366px) */
@@ -960,5 +961,8 @@ footer main img {
   .variationBtn {
     width: 100%;
     text-align: center;
+  }
+  h1, h3, p, h2{
+    font-size: 14px;
   }
 }

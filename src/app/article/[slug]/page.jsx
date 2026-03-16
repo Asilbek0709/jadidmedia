@@ -581,8 +581,7 @@ const articles = [
 ];
 
 export async function generateMetadata({ params }) {
-
-  const { slug } = await params;
+  const { slug } = params; // убрали await
   const article = articles.find(a => a.slug === slug);
 
   if (!article) return {};
@@ -590,29 +589,31 @@ export async function generateMetadata({ params }) {
   return {
     title: article.title,
     description: article.abstract,
-
     authors: [{ name: article.author }],
-
     other: {
       citation_title: article.title,
       citation_author: article.author,
       citation_publication_date: article.date,
       citation_pdf_url: article.pdf,
       citation_doi: article.doi,
-      citattion_abstract: article.abstract,
+      citation_abstract: article.abstract,
       citation_language: "uz",
       citation_online_date: article.date
     }
   };
 }
 
-export default async function ArticlePage({ params }) {
+// 🔹 Это добавлено для генерации всех страниц статически
+export async function generateStaticParams() {
+  return articles.map(article => ({ slug: article.slug }));
+}
 
-  const { slug } = await params;   
+export default async function ArticlePage({ params }) {
+  const { slug } = await params;
   const article = articles.find(a => a.slug === slug);
 
   if (!article) {
-    notFound();
+    notFound?.(); 
   }
 
   return (
@@ -621,9 +622,15 @@ export default async function ArticlePage({ params }) {
       <div className="articlePageMain">
         <div className="articlePageInfo">
           <h2><strong>{article.author}</strong></h2>
-          <h3 style={{fontWeight: "normal"}}><strong>DOI:</strong> <a href={article.doi} target="_blank">{article.doi}</a></h3>
-          <h3 style={{fontWeight: "normal"}}><strong>Annotatsiya:</strong> {article.abstract}</h3>
-          <h3 style={{fontWeight: "normal"}}><strong>Kalit so'zlar:</strong> {article.keywords}</h3>
+          <h3 style={{ fontWeight: "normal" }}>
+            <strong>DOI:</strong> <a href={article.doi} target="_blank">{article.doi}</a>
+          </h3>
+          <h3 style={{ fontWeight: "normal" }}>
+            <strong>Annotatsiya:</strong> {article.abstract}
+          </h3>
+          <h3 style={{ fontWeight: "normal" }}>
+            <strong>Kalit so'zlar:</strong> {article.keywords}
+          </h3>
           <h3>{article.page}</h3>
           <a href={article.file} className="articleBtn" download>Yuklash</a>
         </div>
@@ -636,21 +643,18 @@ export default async function ArticlePage({ params }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
-          "@context": "https://schema.org",
-          "@type": "ScholarlyArticle",
-          headline: article.title,
-          author: {
-            "@type": "Person",
-            name: article.author
-          },
-          description: article.abstract,
-          keywords: article.keywords,
-          datePublished: article.date,
-          identifier: article.doi,
-          url: `https://jadidmedia.uz/article/${article.slug}`
+            "@context": "https://schema.org",
+            "@type": "ScholarlyArticle",
+            headline: article.title,
+            author: { "@type": "Person", name: article.author },
+            description: article.abstract,
+            keywords: article.keywords,
+            datePublished: article.date,
+            identifier: article.doi,
+            url: `https://jadidmedia.uz/article/${article.slug}`
           })
         }}
-        />
+      />
     </section>
   );
 }

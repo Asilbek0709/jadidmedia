@@ -1,5 +1,33 @@
 {
-    "home": {
-        "name": "Name"
-    }
+    "header": {
+        "main": "Home",
+        "conf": "Conference",
+        "contact": "Contact"
+    },
+    "hero": {
+        "hero_title": "JADID JOURNALISM AND MODERN MEDIA STUDIES PROCEEDINGS OF THE INTERNATIONAL SCIENTIFIC AND PRACTICAL CONFERENCE",
+        "hero_desc": "We are pleased to introduce the proceedings of the International Scientific and Practical Conference “Jadid Journalism and Modern Media Studies,” held on January 19, 2026. This conference aims to: Study scientific research in the field of Jadid literature and journalism and their significance in today’s media landscape; Discuss modern media studies, communication strategies, and development trends of mass media; Provide opportunities for the exchange of scientific and practical experience."
+    },
+    "marquee": {
+        "questn": "HAVE QUESTIONS?"
+    },
+    "footer": {
+        "main": "Home",
+        "conf": "Conference",
+        "contact": "Contact",
+        "footer_title": "JADID JOURNALISM AND MODERN MEDIA STUDIES",
+        "dev": "The website was developed by Silicon Hub & Atom Innovations.",
+        "dev_info": "For information.",
+        "location": "Address:",
+        "phone": "For inquiries:",
+        "email": "Email:"
+    },
+    "download": "Download",
+    "send": "Send",
+    "name": "Name",
+    "surname": "Your surname",
+    "number": "Contact number (linked to Telegram)",
+    "variation_1": "THE JOURNALISTIC HERITAGE OF MAHMUDKHOJA BEHBUDI",
+    "variation_2": "THE ROLE AND SIGNIFICANCE OF JADID PRESS IN NATIONAL JOURNALISM",
+    "variation_3": "CURRENT ISSUES IN THE DEVELOPMENT OF MODERN JOURNALISM"
 }

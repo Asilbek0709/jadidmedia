@@ -1,5 +1,33 @@
 {
-    "home": {
-        "name": "Name"
-    }
+    "header": {
+        "main": "Bosh sahifa",
+        "conf": "Konferensiya",
+        "contact": "Aloqa"
+    },
+    "hero": {
+        "hero_title": "JADID PUBLITSISTIKASI VA ZAMONAVIY MEDIA TADQIQOTLAR XALQARO ILMIY-AMALIY KONFERENSIYA MATERIALLARI TO‘PLAMI",
+        "hero_desc": "2026-yil 19-yanvar kuni bo‘lib o‘tgan “Jadid publitsistikasi va zamonaviy media tadqiqotlar” xalqaro ilmiy-amaliy konferensiya materiallari to‘plami bilan tanishtirishdan mamnunmiz. Ushbu konferensiya maqsadlari: Jadid adabiyoti va publitsistikasi sohasidagi ilmiy izlanishlarni va ularning bugungi media manzarasidagi ahamiyatini o‘rganish; Zamonaviy media tadqiqotlari, kommunikatsiya strategiyalari va ommaviy axborot vositalarining rivojlanish tendensiyalarini muhokama qilish; Ilmiy va amaliy tajriba almashishga imkon yaratish."
+    },
+    "marquee": {
+        "questn": "SAVOLLARINGIZ BORMI?"
+    },
+    "footer": {
+        "main": "Bosh sahifa",
+        "conf": "Konferensiya",
+        "contact": "Aloqa",
+        "footer_title": "JADID PUBLITSISTIKASI VA ZAMONAVIY MEDIA TADQIQOTLAR",
+        "dev": "Veb-sayt Silicon Hub & Atom Innovations tomonidan ishlab chiqilgan.",
+        "dev_info": "Ma’lumot uchun.",
+        "location": "Manzil:",
+        "phone": "Murojaat uchun:",
+        "email": "Elektron pochta:"
+    },
+    "download": "Yuklash",
+    "send": "Yuborish",
+    "name": "Ism",
+    "surname": "Familiyangiz",
+    "number": "Bog'lanish uchun raqam (Telegramga ulangan)",
+    "variation_1": "MAHMUDXO‘JA BEHBUDIYNING PUBLITSISTIK MEROSI",
+    "variation_2": "JADID MATBUOTINING MILLIY JURNALISTIKADA TUTGAN O‘RNI VA AHAMIYATI",
+    "variation_3": "ZAMONAVIY JURNALISTIKA TARAQQIYOTINING DOLZARB MASALALARI"
 }

@@ -1,10 +1,11 @@
 "use client"
 
 import Link from "next/link"
+import { useTranslation } from "react-i18next"
 
 export default function Footer(){
 
-
+    const { t } = useTranslation()
 
     return(
         <>
@@ -12,21 +13,21 @@ export default function Footer(){
                 <main>
                     <div className="footerLogo">
                         <img src="/logoFooter.png" alt="" />
-                        <p>JADID PUBLITSISTIKASI VA ZAMONAVIY MEDIA TADQIQOTLAR</p>
+                        <p>{t("footer.footer_title")}</p>
                     </div>
                     <div className="footerNavigation">
-                        <Link className="footerLink" href={"/"}>Bosh sahifa</Link>
-                        <Link className="footerLink" href={"/conference"}>Anjuman</Link>
-                        <Link className="footerLink" href={"/contact"}>Aloqa</Link>
+                        <Link className="footerLink" href={"/"}>{t("footer.main")}</Link>
+                        <Link className="footerLink" href={"/conference"}>{t("footer.conf")}</Link>
+                        <Link className="footerLink" href={"/contact"}>{t("footer.contact")}</Link>
                     </div>
                     <div className="footerContact">
-                        <p><strong>Manzil:</strong> Markaz-5 Qiyot-88</p>
-                        <p><strong>Murojaat uchun:</strong> +998 (90) 123 45 67</p>
-                        <p><strong>Elektron pochta:</strong> mail@gmail.com</p>
+                        <p><strong>{t("footer.location")}</strong> Markaz-5 Qiyot-88</p>
+                        <p><strong>{t("footer.phone")}</strong> <a href="tel:998977063607">+998 97 706 36 07</a>, <a href="tel:998971980529">+998 97 706 36 07</a></p>
+                        <p><strong>{t("footer.email")}</strong> <a href="ms.maxsumova@gmail.com">ms.maxsumova@gmail.com</a>, <a href="suleymonova1224@gmail.com">suleymonova1224@gmail.com</a></p>
                     </div>
                 </main>
                 <nav className="devInfo">
-                   <p>Sayt Silicon hub & Atom Innovations tomonidan ihslab chiqarilgan <a href="https://t.me/+998934700718">Ma'lumot uchun</a></p> 
+                   <p>{t("footer.dev")} <a href="https://t.me/+998934700718">{t("footer.dev_info")}</a></p> 
                 </nav>
             </footer>
         </>

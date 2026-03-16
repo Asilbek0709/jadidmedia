@@ -1,14 +1,18 @@
 "use client"
 
 import Link from "next/link"
+import { useTranslation } from "react-i18next"
 
 export default function Marquee(){
+
+    const { t } = useTranslation();
+
     return(
         <>
         <Link href={"/"}>
           <div className="marquee">
                 <div className="marquee-bg-text">
-                  <span>SAVOLLARINGIZ BORMI</span><span>SAVOLLARINGIZ BORMI</span>
+                  <span>{t("marquee.questn")}</span><span>{t("marquee.questn")}</span>
                 </div>
                 <div className="marquee-content">
                   <div className="marquee-arrow-cont">

@@ -2,8 +2,12 @@
 
 import Link from "next/link"
 import { TextField } from "@mui/material"
+import { useTranslation } from "react-i18next"
 
 export default function Contact(){
+
+    const { t } = useTranslation()
+
     return(
         <>
             <section className="contactPage">
@@ -11,7 +15,7 @@ export default function Contact(){
                     <div className="feedback">
                         <div className="initials">
                             <TextField
-                                label="Ismingiz"
+                                label= {t("name")}
                                 variant="outlined"
                                 fullWidth
                                 sx={{
@@ -31,7 +35,7 @@ export default function Contact(){
                             />
 
                             <TextField
-                                label="Familiyangiz"
+                                label= {t("surname")}
                                 variant="outlined"
                                 fullWidth
                                 sx={{
@@ -51,7 +55,7 @@ export default function Contact(){
                             />
                         </div>
                         <TextField
-                            label="Bog'lanish uchun telegram akkaunt"
+                            label= {t("number")}
                             variant="outlined"
                             fullWidth
                             sx={{
@@ -69,7 +73,7 @@ export default function Contact(){
                                 "& .MuiInputLabel-root.Mui-focused": { color: "red" }
                             }}
                         />
-                        <button className="submitBtn">Jo`natish</button>
+                        <button className="submitBtn">{t("send")}</button>
                     </div>
                     <div className="contacts">
                         <div className="phone">
@@ -102,7 +106,7 @@ export default function Contact(){
                                 strokeLinejoin="round"
                                 />
                             </svg>
-                            <p><strong>Telefon raqam:</strong> +998 (90) 123 45 67</p>
+                            <p><strong>{t("footer.phone")}</strong><a href="tel:998977063607">+998 97 706 36 07</a>, <a href="tel:998971980529">+998 97 706 36 07</a></p>
                         </div>
                         <div className="email">
                             <svg 
@@ -141,7 +145,7 @@ export default function Contact(){
                                 strokeLinejoin="round"
                                 />
                             </svg>
-                            <p><strong>Elektron manzil:</strong> mail@gmail.com</p>
+                            <p><strong>{t("footer.email")}</strong> <a href="ms.maxsumova@gmail.com">ms.maxsumova@gmail.com</a>, <a href="suleymonova1224@gmail.com">suleymonova1224@gmail.com</a></p>
                         </div>
                         <div className="adress">
                             <svg 
@@ -166,7 +170,7 @@ export default function Contact(){
                                     strokeLinejoin="round"
                                 />
                             </svg>
-                            <p><strong>Manzil:</strong> Markaz-5 Qiyot-88</p>
+                            <p><strong>{t("footer.location")}</strong> Markaz-5 Qiyot-88</p>
                         </div>
                     </div>
                 </div>

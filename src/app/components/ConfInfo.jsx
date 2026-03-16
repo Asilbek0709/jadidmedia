@@ -1,6 +1,11 @@
 "use client"
 
+import { useTranslation } from "react-i18next"
+
 export default function ConfInfo() {
+
+    const { t } = useTranslation()
+
     return(
         <>
             <section className="latestIssue">
@@ -8,8 +13,8 @@ export default function ConfInfo() {
                     <img src="/conf.png" alt="" />
                 </div>
                 <div className="issueInfo">
-                    <h1>JADID PUBLITSISTIKASI VA ZAMONAVIY MEDIA TADQIQOTLAR <br /> XALQARO ILMIY-AMALIY KONFERENSIYA MATERIALLARI TO‘PLAMI</h1>
-                    <p>2026-yil 19-yanvar kuni bo‘lib o‘tgan “Jadid publitsistikasi va zamonaviy media tadqiqotlar” xalqaro ilmiy-amaliy konferensiya materiallari to‘plami bilan tanishtirishdan mamnunmiz. Ushbu konferensiya: <br />Jadid adabiyoti va publitsistikasi sohasidagi ilmiy izlanishlarni va ularning bugungi media manzarasidagi ahamiyatini o‘rganishga; <br />Zamonaviy media tadqiqotlari, kommunikatsiya strategiyalari va ommaviy axborot vositalarining rivojlanish tendensiyalarini muhokama qilishga; <br />Ilmiy va amaliy tajriba almashishga imkon yaratadi.</p>
+                    <h1>{t("hero.hero_title")}</h1>
+                    <p>{t("hero.hero_desc")}</p>
                 </div>
                 
             </section>

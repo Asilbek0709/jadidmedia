@@ -9,7 +9,7 @@ export default function Marquee(){
 
     return(
         <>
-        <Link href={"/"}>
+        <Link href={"/contact"}>
           <div className="marquee">
                 <div className="marquee-bg-text">
                   <span>{t("marquee.questn")}</span><span>{t("marquee.questn")}</span>

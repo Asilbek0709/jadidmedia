@@ -566,6 +566,7 @@ footer main img {
   flex: 1;
   min-width: 15rem;
   max-width: 30rem;
+  gap: 1rem;
 }
 
 /* MARQUEE SECTION */
@@ -1084,6 +1085,11 @@ footer main img {
     text-align: center;
   }
   h1, h3, p, h2{
+    font-size: 14px;
+  }
+  .variationBtn{
+    width: 4rem;
+    padding: 0.5rem;
     font-size: 14px;
   }
 }

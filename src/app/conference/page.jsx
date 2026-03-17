@@ -8,9 +8,9 @@ export default function Conference(){
     const { t } = useTranslation()
 
     const variations = [
-        { id: 1, description: t("variation_1"), file: "variation_1.pdf"},
-        { id: 2, description: t("variation_2"), file: "variation_2.pdf"},
-        { id: 3, description: t("variation_3"), file: "variation_3.pdf"},
+        { id: 1, description: t("variation_1"), file: "/variation_1.pdf"},
+        { id: 2, description: t("variation_2"), file: "/variation_2.pdf"},
+        { id: 3, description: t("variation_3"), file: "/variation_3.pdf"},
     ]
 
     return(

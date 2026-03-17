@@ -1,5 +1,6 @@
 "use client"
 
+import Link from "next/link"
 import { useTranslation } from "react-i18next"
 
 export default function ConfInfo() {
@@ -15,6 +16,7 @@ export default function ConfInfo() {
                 <div className="issueInfo">
                     <h1>{t("hero.hero_title")}</h1>
                     <p>{t("hero.hero_desc")}</p>
+                    <Link href={"/conference"} className="variationBtn">Batafsil</Link>
                 </div>
                 
             </section>

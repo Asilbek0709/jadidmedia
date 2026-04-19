@@ -301,7 +301,7 @@ const articles = [
                 file: "/30.pdf", 
                 keywords: "modern journalism, social media, new media formats, media policy, President Ilham Aliyev"},
             { 
-                slug: "analiticheskie-zhanry-i-socialьnaya-zhurnalistika-kak-instrument-osmysleniya-i-obsuzhdeniya-problem-sfery-obrazovaniya-v-mestnoj-periodicheskoj-presse-tadzhikistana-issledovanie-na-primere-materialov-gazety-«hatlon»",
+                slug: "analiticheskie-zhanry-i-socialnaya-zhurnalistika-kak-instrument-osmysleniya",
                 title: "АНАЛИТИЧЕСКИЕ ЖАНРЫ И СОЦИАЛЬНАЯ ЖУРНАЛИСТИКА КАК ИНСТРУМЕНТ ОСМЫСЛЕНИЯ И ОБСУЖДЕНИЯ ПРОБЛЕМ СФЕРЫ ОБРАЗОВАНИЯ В МЕСТНОЙ ПЕРИОДИЧЕСКОЙ ПРЕССЕ ТАДЖИКИСТАНА (исследование на примере материалов газеты «Хатлон»)", 
                 author: "Маъмурзода Носирджон Маъмур & Хайрзода Рамазон Ашурали", 
                 page: "158-173", 
@@ -581,7 +581,7 @@ const articles = [
 ];
 
 export async function generateMetadata({ params }) {
-  const { slug } = params; // убрали await
+  const { slug } = params; 
   const article = articles.find(a => a.slug === slug);
 
   if (!article) return {};
@@ -603,7 +603,6 @@ export async function generateMetadata({ params }) {
   };
 }
 
-// 🔹 Это добавлено для генерации всех страниц статически
 export async function generateStaticParams() {
   return articles.map(article => ({ slug: article.slug }));
 }

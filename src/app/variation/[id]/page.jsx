@@ -256,7 +256,7 @@ const variations = {
                 keywords: "Mahmudxo‘ja Behbudiy, jadidchilik, xalqaro dunyoqarash, G‘arb sivilizatsiyasi, modernizatsiya, matbuot, ta’lim islohoti.",
                 file: "/1.pdf"},
             {id: 3, 
-                slug: "analiticheskie-zhanry-i-socialьnaya-zhurnalistika-kak-instrument-osmysleniya-i-obsuzhdeniya-problem-sfery-obrazovaniya-v-mestnoj-periodicheskoj-presse-tadzhikistana-issledovanie-na-primere-materialov-gazety-«hatlon»",
+                slug: "analiticheskie-zhanry-i-socialnaya-zhurnalistika-kak-instrument-osmysleniya",
                 title: "АНАЛИТИЧЕСКИЕ ЖАНРЫ И СОЦИАЛЬНАЯ ЖУРНАЛИСТИКА КАК ИНСТРУМЕНТ ОСМЫСЛЕНИЯ И ОБСУЖДЕНИЯ ПРОБЛЕМ СФЕРЫ ОБРАЗОВАНИЯ В МЕСТНОЙ ПЕРИОДИЧЕСКОЙ ПРЕССЕ ТАДЖИКИСТАНА (исследование на примере материалов газеты «Хатлон»)", 
                 author: "Маъмурзода Носирджон Маъмур & Хайрзода Рамазон Ашурали", 
                 page: "158-173", 

@@ -578,7 +578,19 @@ const articles = [
                 abstract: `Ushbu maqolada Mahmudxo‘ja Behbudiy va Abdurauf Fitrat misolida jadidlarning nafaqat milliy matbuotimiz balkim bugungi tahririyatlarning tuzilishi, muharrirlarning xodimlar bilan ishlashi, tahrir masalalari tahlil qilinadi. Shuningdek, jadid muharrirlarining hattoki hozirgi davr uchun ham muhim sanalgan boshqaruv ayniqsa ijodiy jarayonda qo‘llagan usullari, ahamiyat qaratgan jihatlari va ishlash prinsiplari chuqur o‘rganiladi. Behbudiy hamda Fitratning bosh muharrir, noshir hamda pedagog sifatida yosh kadrlarga maqola va yozma nutqni rivojlantirishga doir tavsiyalari, ishlab chiqqan qo‘llanmalari bugungi kadrlar siyosatida ham o‘z dolzarbligini yo‘qotmagan. Ushbu omillarni umumlashtirgan holda maqolada ularning ijodiy boshqaruvda qo‘llagan tendensiyalarini bugungi kunga ham tatbiq etishga doir ayrim mulohazalarni ilgari surish maqsad qilingan.`,
                 file: "/58.pdf", 
                 keywords: "Ayollar huquqlari, gender tengligi, jadidchilik harakati, ayollar ta’limi, Mahmudxo‘ja Behbudiy, Abdulla Avloniy, ijtimoiy tenglik, Abdurauf Fitrat."},
-];
+            { 
+                slug: "vizual-ahborotdan-interaktiv-kommunikaciyaga-mediada-vizualizaciya-evolyuciyasi",
+                title: "ВИЗУАЛ АХБОРОТДАН ИНТЕРАКТИВ КОММУНИКАЦИЯГА: МЕДИАДА ВИЗУАЛИЗАЦИЯ ЭВОЛЮЦИЯСИ", 
+                author: "Ахмедова Жасмина Кахрамонқизи", 
+                page: "309-313", 
+                date: "19.01.2026", 
+                doi: "https://doi.org/10.5281/zenodo.22255748",
+                abstract: `Мазкур тезисда визуал ахборот узатиш воситаларининг тарихий шаклланиши ва замонавий рақамли медиа муҳитидаги тараққиёт тенденциялари таҳлил қилинади. Тадқиқотда визуализациянинг харита, диаграмма ва графиклардан инфографика, интерактив графика ва мультимедиа контентгача бўлган эволюцияси ўрганилди. Тарихийтаҳлилий, қиёсий ва тизимли усуллардан фойдаланилди. Уильям Плейфейр, Жон Сноу ва Флоренс Найтингейлнинг визуал маълумотларни тақдим этишдаги тажрибалари таҳлил қилинди. Натижалар визуализация замонавий журналистикада ахборотни тизимлаштириш, тушунтириш ва аудиторияга самарали етказишнинг мустақил коммуникацион механизмига айланганини кўрсатди.`,
+                file: "/59.pdf", 
+                keywords: "визуал ахборот, визуализация, инфографика, маълумотлар журналистикаси, рақамли медиа, журнал дизайни, интерактив графика, визуал коммуникация."},
+
+
+              ];
 
 export async function generateMetadata({ params }) {
   const { slug } = params; 
